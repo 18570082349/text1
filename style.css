@@ -1,0 +1,10 @@
+#con{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+}
+p{
+	color: red;
+	text-align: center;
+	line-height: 200px;
+}
